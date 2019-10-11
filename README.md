@@ -3,6 +3,10 @@
 
 "Track only the crypto currencies that you want!"
 
+<span>
+<img src="images/Capture.PNG" alt="Search Page" width="350" height="200"/>
+</span>
+
 ## Goal
 
 To provide a simple user interface to provide current crypto currency price data for coins the user is interested in. Current news stories relative to the coins followed will also be provided, so that the user can be in tune with current events driving the prices.
